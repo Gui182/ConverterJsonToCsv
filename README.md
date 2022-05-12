@@ -1,4 +1,4 @@
-### Excercicío Técnico - Time de integração
+### Excercício Técnico - Time de integração
 
 ### Script de conversão de arquivos JSON em CSV
 
