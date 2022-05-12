@@ -1,0 +1,16 @@
+[{
+    "name": "Guilherme",
+    "fullname": "Guilherme Augusto de Oliveira",
+    "address": {
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BR",
+        "address1": "Rua dos patinhos",
+        "telephone": {
+            "type": "CELULAR",
+            "number": "1174547777"
+        },
+        "neighbourhood": "Vila Anchieta"
+    },
+    "createdAt": "2022-04-07T10:21:19.000Z"
+}]

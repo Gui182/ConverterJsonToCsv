@@ -1,0 +1,13 @@
+{
+  "name": "NIfiConvertJsonToCsv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
